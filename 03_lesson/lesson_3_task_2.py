@@ -6,4 +6,4 @@ catalog = [Smartphone("Nokia", "250", "+79992221133"),
            Smartphone("Sony", "1999", "+79999323241")
            ]
 for i in catalog:
-    print(f"{i.bernd} - {i.model}. {i.number}")
+    print(f"{i.barnd} - {i.model}. {i.number}")
